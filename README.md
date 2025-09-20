@@ -1,9 +1,9 @@
 # Human Resources Dashboard  
 
 ## 📊 Project Overview  
-This project is an **interactive Tableau dashboard** built to analyze HR data.  
-The dashboard provides insights into employee demographics, roles, salaries, performance, and employment trends.  
-It is designed to help HR teams and management quickly identify workforce patterns and make data-driven decisions.  
+This project is an **interactive Tableau dashboard** built to analyze HR data.The dashboard provides insights into 
+employee demographics, roles, salaries, performance, and employment trends. It is designed to help HR teams and
+management quickly identify workforce patterns and make data-driven decisions.  
 
 ---
 
