@@ -14,6 +14,8 @@ management quickly identify workforce patterns and make data-driven decisions.
 ### Employee Details Page  
 <img width="1728" height="1016" alt="image" src="https://github.com/user-attachments/assets/1fe54ad4-a060-4bdb-914e-fa7cf93825a5" />
 
+
+
 Tableau Public link: https://public.tableau.com/app/profile/yuvaraj.g4971/viz/HRDashboard_17576103608810/HRSummary
 
 
