@@ -5,17 +5,15 @@ This project is an **interactive Tableau dashboard** built to analyze HR data.Th
 employee demographics, roles, salaries, performance, and employment trends. It is designed to help HR teams and
 management quickly identify workforce patterns and make data-driven decisions.  
 
----
 
 ## Dashboard Preview  
 ### Overview Page  
-![HR Overview]<img width="1742" height="997" alt="image" src="https://github.com/user-attachments/assets/e2ffb631-edfd-4d7d-a8a5-a60f4a2c7b3a" />
+<img width="1742" height="997" alt="image" src="https://github.com/user-attachments/assets/e2ffb631-edfd-4d7d-a8a5-a60f4a2c7b3a" />
   
 
 ### Employee Details Page  
-![HR Details]<img width="1728" height="1016" alt="image" src="https://github.com/user-attachments/assets/1fe54ad4-a060-4bdb-914e-fa7cf93825a5" />
+<img width="1728" height="1016" alt="image" src="https://github.com/user-attachments/assets/1fe54ad4-a060-4bdb-914e-fa7cf93825a5" />
 
----
 
 ## Features  
 - **Employee Overview:** Track total employees, active vs terminated status  
@@ -25,13 +23,11 @@ management quickly identify workforce patterns and make data-driven decisions.
 - **Geographical Insights:** Employee distribution by location  
 - **Detailed Employee List:** Interactive employee-level view with filters  
 
----
 
 ## Tools & Technologies  
 - **Tableau** – Data visualization and dashboard building  
 - **Dataset** – Provided by *Data with Baraa* (YouTube)
 
----
 
 ## Acknowledgments  
 This dashboard was created as part of a guided learning project from the YouTube course **[Data with Baraa](https://www.youtube.com/@DataWithBaraa)**.  
