@@ -32,8 +32,3 @@ Tableau Public link: https://public.tableau.com/app/profile/yuvaraj.g4971/viz/HR
 
 ## Tools & Technologies  
 - **Tableau** – Data visualization and dashboard building  
-- **Dataset** – Provided by *Data with Baraa* (YouTube)
-
-
-## Acknowledgments  
-This dashboard was created as part of a guided learning project from the YouTube course **[Data with Baraa](https://www.youtube.com/@DataWithBaraa)**.  
