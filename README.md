@@ -1,4 +1,4 @@
-# Human Resources Dashboard  
+<img width="1748" height="1004" alt="image" src="https://github.com/user-attachments/assets/ac7c6e55-6ce9-4d01-bcef-03207163ae59" /># Human Resources Dashboard  
 
 ## Project Overview  
 This project is an **interactive Tableau dashboard** built to analyze HR data.The dashboard provides insights into 
@@ -8,8 +8,8 @@ management quickly identify workforce patterns and make data-driven decisions.
 
 ## Dashboard Preview  
 ### Overview Page  
-<img width="1742" height="997" alt="image" src="https://github.com/user-attachments/assets/e2ffb631-edfd-4d7d-a8a5-a60f4a2c7b3a" />
-  
+<img width="1747" height="1003" alt="Screenshot 2025-11-08 110059" src="https://github.com/user-attachments/assets/e1fb0860-faf9-4b26-996a-306558d8298a" />
+
 
 ### Employee Details Page  
 <img width="1728" height="1016" alt="image" src="https://github.com/user-attachments/assets/1fe54ad4-a060-4bdb-914e-fa7cf93825a5" />
