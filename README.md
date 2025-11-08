@@ -18,7 +18,7 @@ management quickly identify workforce patterns and make data-driven decisions.
 
 
 
-Tableau Public link: https://public.tableau.com/app/profile/yuvaraj.g4971/viz/HRDashboard_17576103608810/HRSummary
+Tableau Dasbboard link: https://public.tableau.com/app/profile/yuvaraj.g4971/viz/HRDashboard_17576103608810/HRSummary
 
 
 ## Features  
